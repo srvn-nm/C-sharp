@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ForAndWhileSimplePractice1\ForAndWhileSimplePractice1\bin\Debug\ForAndWhileSimplePractice1.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ForAndWhileSimplePractice1\ForAndWhileSimplePractice1\bin\Debug\ForAndWhileSimplePractice1.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ForAndWhileSimplePractice1\ForAndWhileSimplePractice1\bin\Debug\ForAndWhileSimplePractice1.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ForAndWhileSimplePractice1\ForAndWhileSimplePractice1\obj\Debug\ForAndWhileSimplePractice1.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ForAndWhileSimplePractice1\ForAndWhileSimplePractice1\obj\Debug\ForAndWhileSimplePractice1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ForAndWhileSimplePractice1\ForAndWhileSimplePractice1\obj\Debug\ForAndWhileSimplePractice1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ForAndWhileSimplePractice1\ForAndWhileSimplePractice1\obj\Debug\ForAndWhileSimplePractice1.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ForAndWhileSimplePractice1\ForAndWhileSimplePractice1\obj\Debug\ForAndWhileSimplePractice1.pdb
