@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\Power\Power\bin\Debug\Power.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\Power\Power\bin\Debug\Power.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\Power\Power\bin\Debug\Power.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\Power\Power\obj\Debug\Power.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\Power\Power\obj\Debug\Power.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\Power\Power\obj\Debug\Power.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\Power\Power\obj\Debug\Power.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\Power\Power\obj\Debug\Power.pdb
