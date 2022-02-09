@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FirstProject\FirstProject\obj\Debug\FirstProject.pdb

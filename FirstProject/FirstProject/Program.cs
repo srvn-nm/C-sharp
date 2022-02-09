@@ -10,6 +10,10 @@ namespace FirstProject
     {
         static void Main(string[] args)
         {
+            //Console.WriteLine("Hello^-^");
+            //String input = Console.ReadLine();
+            //Console.WriteLine("Your input : " + input);
+            Console.WriteLine("First Project");
         }
     }
 }
