@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\loopAndCondition\loopAndCondition\bin\Debug\loopAndCondition.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\loopAndCondition\loopAndCondition\bin\Debug\loopAndCondition.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\loopAndCondition\loopAndCondition\bin\Debug\loopAndCondition.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\loopAndCondition\loopAndCondition\obj\Debug\loopAndCondition.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\loopAndCondition\loopAndCondition\obj\Debug\loopAndCondition.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\loopAndCondition\loopAndCondition\obj\Debug\loopAndCondition.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\loopAndCondition\loopAndCondition\obj\Debug\loopAndCondition.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\loopAndCondition\loopAndCondition\obj\Debug\loopAndCondition.pdb
