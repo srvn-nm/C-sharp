@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleIfPractice\SimpleIfPractice\bin\Debug\SimpleIfPractice.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleIfPractice\SimpleIfPractice\bin\Debug\SimpleIfPractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleIfPractice\SimpleIfPractice\bin\Debug\SimpleIfPractice.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleIfPractice\SimpleIfPractice\obj\Debug\SimpleIfPractice.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleIfPractice\SimpleIfPractice\obj\Debug\SimpleIfPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleIfPractice\SimpleIfPractice\obj\Debug\SimpleIfPractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleIfPractice\SimpleIfPractice\obj\Debug\SimpleIfPractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleIfPractice\SimpleIfPractice\obj\Debug\SimpleIfPractice.pdb
