@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\switchcasePractice\switchcasePractice\bin\Debug\switchcasePractice.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\switchcasePractice\switchcasePractice\bin\Debug\switchcasePractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\switchcasePractice\switchcasePractice\bin\Debug\switchcasePractice.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\switchcasePractice\switchcasePractice\obj\Debug\switchcasePractice.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\switchcasePractice\switchcasePractice\obj\Debug\switchcasePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\switchcasePractice\switchcasePractice\obj\Debug\switchcasePractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\switchcasePractice\switchcasePractice\obj\Debug\switchcasePractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\switchcasePractice\switchcasePractice\obj\Debug\switchcasePractice.pdb
