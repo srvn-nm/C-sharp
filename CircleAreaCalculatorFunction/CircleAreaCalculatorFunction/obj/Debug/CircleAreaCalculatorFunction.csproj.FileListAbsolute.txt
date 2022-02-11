@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\CircleAreaCalculatorFunction\CircleAreaCalculatorFunction\bin\Debug\CircleAreaCalculatorFunction.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\CircleAreaCalculatorFunction\CircleAreaCalculatorFunction\bin\Debug\CircleAreaCalculatorFunction.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\CircleAreaCalculatorFunction\CircleAreaCalculatorFunction\bin\Debug\CircleAreaCalculatorFunction.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\CircleAreaCalculatorFunction\CircleAreaCalculatorFunction\obj\Debug\CircleAreaCalculatorFunction.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\CircleAreaCalculatorFunction\CircleAreaCalculatorFunction\obj\Debug\CircleAreaCalculatorFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\CircleAreaCalculatorFunction\CircleAreaCalculatorFunction\obj\Debug\CircleAreaCalculatorFunction.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\CircleAreaCalculatorFunction\CircleAreaCalculatorFunction\obj\Debug\CircleAreaCalculatorFunction.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\CircleAreaCalculatorFunction\CircleAreaCalculatorFunction\obj\Debug\CircleAreaCalculatorFunction.pdb

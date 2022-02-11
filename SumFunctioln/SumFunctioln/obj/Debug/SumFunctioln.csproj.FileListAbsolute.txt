@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SumFunctioln\SumFunctioln\bin\Debug\SumFunctioln.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SumFunctioln\SumFunctioln\bin\Debug\SumFunctioln.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SumFunctioln\SumFunctioln\bin\Debug\SumFunctioln.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SumFunctioln\SumFunctioln\obj\Debug\SumFunctioln.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SumFunctioln\SumFunctioln\obj\Debug\SumFunctioln.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SumFunctioln\SumFunctioln\obj\Debug\SumFunctioln.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SumFunctioln\SumFunctioln\obj\Debug\SumFunctioln.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SumFunctioln\SumFunctioln\obj\Debug\SumFunctioln.pdb
