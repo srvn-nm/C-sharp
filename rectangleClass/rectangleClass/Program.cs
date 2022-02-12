@@ -10,6 +10,10 @@ namespace rectangleClass
     {
         static void Main(string[] args)
         {
+            Triangle t = new Triangle(3.5);
+            t.Height = 3.5;
+            Console.WriteLine("The area of the given numbers as the variables of a triangle : " + t.Area());
+            Triangle.Name();
         }
     }
 }
