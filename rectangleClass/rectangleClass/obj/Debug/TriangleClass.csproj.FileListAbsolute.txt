@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\rectangleClass\rectangleClass\bin\Debug\rectangleClass.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\rectangleClass\rectangleClass\bin\Debug\rectangleClass.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\rectangleClass\rectangleClass\bin\Debug\rectangleClass.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\rectangleClass\rectangleClass\obj\Debug\TriangleClass.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\rectangleClass\rectangleClass\obj\Debug\TriangleClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\rectangleClass\rectangleClass\obj\Debug\TriangleClass.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\rectangleClass\rectangleClass\obj\Debug\rectangleClass.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\rectangleClass\rectangleClass\obj\Debug\rectangleClass.pdb
