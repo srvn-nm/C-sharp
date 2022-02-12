@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\objectOrientedPractice\objectOrientedPractice\bin\Debug\objectOrientedPractice.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\objectOrientedPractice\objectOrientedPractice\bin\Debug\objectOrientedPractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\objectOrientedPractice\objectOrientedPractice\bin\Debug\objectOrientedPractice.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\objectOrientedPractice\objectOrientedPractice\obj\Debug\objectOrientedPractice.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\objectOrientedPractice\objectOrientedPractice\obj\Debug\objectOrientedPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\objectOrientedPractice\objectOrientedPractice\obj\Debug\objectOrientedPractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\objectOrientedPractice\objectOrientedPractice\obj\Debug\objectOrientedPractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\objectOrientedPractice\objectOrientedPractice\obj\Debug\objectOrientedPractice.pdb
