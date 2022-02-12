@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\InheritanceAnimall\InheritanceAnimall\bin\Debug\InheritanceAnimall.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\InheritanceAnimall\InheritanceAnimall\bin\Debug\InheritanceAnimall.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\InheritanceAnimall\InheritanceAnimall\bin\Debug\InheritanceAnimall.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\InheritanceAnimall\InheritanceAnimall\obj\Debug\InheritanceAnimall.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\InheritanceAnimall\InheritanceAnimall\obj\Debug\InheritanceAnimall.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\InheritanceAnimall\InheritanceAnimall\obj\Debug\InheritanceAnimall.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\InheritanceAnimall\InheritanceAnimall\obj\Debug\InheritanceAnimall.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\InheritanceAnimall\InheritanceAnimall\obj\Debug\InheritanceAnimall.pdb

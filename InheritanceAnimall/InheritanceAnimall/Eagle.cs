@@ -11,7 +11,7 @@ namespace InheritanceAnimall
         public int FlyHeight { get; set; }
         public void Fly()
         {
-            Console.WriteLine(name + "is flying at" +FlyHeight);
+            Console.WriteLine(name + " is flying at " +FlyHeight);
         }
     }
 }
