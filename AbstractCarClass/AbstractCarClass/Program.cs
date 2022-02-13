@@ -10,6 +10,10 @@ namespace AbstractCarClass
     {
         static void Main(string[] args)
         {
+            Car car1 = new Samand();
+            Car car2 = new Peraid();
+            car1.move();
+            car2.move();
         }
     }
 }

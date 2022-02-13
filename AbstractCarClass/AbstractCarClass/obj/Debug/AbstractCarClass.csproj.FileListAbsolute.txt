@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\AbstractCarClass\AbstractCarClass\bin\Debug\AbstractCarClass.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\AbstractCarClass\AbstractCarClass\bin\Debug\AbstractCarClass.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\AbstractCarClass\AbstractCarClass\bin\Debug\AbstractCarClass.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\AbstractCarClass\AbstractCarClass\obj\Debug\AbstractCarClass.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\AbstractCarClass\AbstractCarClass\obj\Debug\AbstractCarClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\AbstractCarClass\AbstractCarClass\obj\Debug\AbstractCarClass.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\AbstractCarClass\AbstractCarClass\obj\Debug\AbstractCarClass.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\AbstractCarClass\AbstractCarClass\obj\Debug\AbstractCarClass.pdb
