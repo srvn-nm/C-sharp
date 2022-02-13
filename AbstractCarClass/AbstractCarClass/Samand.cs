@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace AbstractCarClass
 {
-    internal class Samand
+    internal class Samand : Car
     {
+        public override void move()
+        {
+            Console.WriteLine("Samand is moving!");
+        }
     }
 }
