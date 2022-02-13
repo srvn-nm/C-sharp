@@ -10,6 +10,9 @@ namespace SimpleAveragePolymorphism
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(AverageCalculator.Ave(2,3));
+            Console.WriteLine(AverageCalculator.Ave(2, 3,4));
+            Console.WriteLine(AverageCalculator.Ave(2, 3, 4,5));
         }
     }
 }

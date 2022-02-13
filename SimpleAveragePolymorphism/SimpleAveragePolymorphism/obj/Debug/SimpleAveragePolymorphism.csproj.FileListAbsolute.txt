@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleAveragePolymorphism\SimpleAveragePolymorphism\bin\Debug\SimpleAveragePolymorphism.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleAveragePolymorphism\SimpleAveragePolymorphism\bin\Debug\SimpleAveragePolymorphism.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleAveragePolymorphism\SimpleAveragePolymorphism\bin\Debug\SimpleAveragePolymorphism.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleAveragePolymorphism\SimpleAveragePolymorphism\obj\Debug\SimpleAveragePolymorphism.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleAveragePolymorphism\SimpleAveragePolymorphism\obj\Debug\SimpleAveragePolymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleAveragePolymorphism\SimpleAveragePolymorphism\obj\Debug\SimpleAveragePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleAveragePolymorphism\SimpleAveragePolymorphism\obj\Debug\SimpleAveragePolymorphism.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\SimpleAveragePolymorphism\SimpleAveragePolymorphism\obj\Debug\SimpleAveragePolymorphism.pdb
