@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractCarClass
 {
-    internal class Car
+    internal abstract class Car
     {
+        public abstract void move();
     }
 }
