@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\QueueAndStack\QueueAndStack\bin\Debug\QueueAndStack.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\QueueAndStack\QueueAndStack\bin\Debug\QueueAndStack.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\QueueAndStack\QueueAndStack\bin\Debug\QueueAndStack.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\QueueAndStack\QueueAndStack\obj\Debug\QueueAndStack.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\QueueAndStack\QueueAndStack\obj\Debug\QueueAndStack.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\QueueAndStack\QueueAndStack\obj\Debug\QueueAndStack.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\QueueAndStack\QueueAndStack\obj\Debug\QueueAndStack.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\QueueAndStack\QueueAndStack\obj\Debug\QueueAndStack.pdb
