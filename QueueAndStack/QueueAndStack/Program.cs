@@ -24,7 +24,7 @@ namespace QueueAndStack
                 Console.WriteLine(item);
             }
             Console.WriteLine("**************\nQueue After First Dequeue:");
-            queue.Dequeue();
+            int dequeued = queue.Dequeue();
             foreach (var item in queue)
             {
                 Console.WriteLine(item);
@@ -32,6 +32,32 @@ namespace QueueAndStack
             Console.WriteLine("**************\nQueue After Second Dequeue:");
             queue.Dequeue();
             foreach (var item in queue)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("**************");
+            Console.WriteLine("**************\nStack First Declaration:");
+            Stack<int> stack = new Stack<int>();
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(3);
+            stack.Push(4);
+            stack.Push(5);
+            stack.Push(6);
+            stack.Push(7);
+            foreach (var item in stack)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("**************\nStack First Pop:");
+            int poped = stack.Pop();
+            foreach (var item in stack)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("**************\nStack Second Pop:");
+            stack.Pop();
+            foreach (var item in stack)
             {
                 Console.WriteLine(item);
             }
