@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae6b34c1-dd61-4527-a88a-443fea87b21c": {
+      "ProjectGuid": "ae6b34c1-dd61-4527-a88a-443fea87b21c",
+      "DisplayName": "DynamicFibonacciCode",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
