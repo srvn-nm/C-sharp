@@ -1,0 +1,7 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialRecresive\FactorialRecresive\bin\Debug\FactorialRecresive.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialRecresive\FactorialRecresive\bin\Debug\FactorialRecresive.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialRecresive\FactorialRecresive\bin\Debug\FactorialRecresive.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialRecresive\FactorialRecresive\obj\Debug\FactorialRecresive.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialRecresive\FactorialRecresive\obj\Debug\FactorialRecresive.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialRecresive\FactorialRecresive\obj\Debug\FactorialRecresive.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialRecresive\FactorialRecresive\obj\Debug\FactorialRecresive.pdb
