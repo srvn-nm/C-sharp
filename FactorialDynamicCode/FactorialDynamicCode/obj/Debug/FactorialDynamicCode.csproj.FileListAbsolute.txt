@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialDynamicCode\FactorialDynamicCode\bin\Debug\FactorialDynamicCode.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialDynamicCode\FactorialDynamicCode\bin\Debug\FactorialDynamicCode.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialDynamicCode\FactorialDynamicCode\bin\Debug\FactorialDynamicCode.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialDynamicCode\FactorialDynamicCode\obj\Debug\FactorialDynamicCode.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialDynamicCode\FactorialDynamicCode\obj\Debug\FactorialDynamicCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialDynamicCode\FactorialDynamicCode\obj\Debug\FactorialDynamicCode.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialDynamicCode\FactorialDynamicCode\obj\Debug\FactorialDynamicCode.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FactorialDynamicCode\FactorialDynamicCode\obj\Debug\FactorialDynamicCode.pdb

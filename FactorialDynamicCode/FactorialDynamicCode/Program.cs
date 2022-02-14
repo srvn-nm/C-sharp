@@ -20,6 +20,27 @@ namespace FactorialDynamicCode
         }
         static void Main(string[] args)
         {
+            while (true)
+            {
+                Console.WriteLine("Please type the number you want to see it's factorial here or e to exit : ");
+                string input = Console.ReadLine();
+                if (input == "e")
+                {
+                    Console.WriteLine("Goodbye ^-^");
+                    break;
+                }
+                else if (input.All(char.IsDigit))
+                {
+                    Console.WriteLine(Factorial(long.Parse(input)) + "\n*****************");
+                    Console.WriteLine("Please type the number you want to see it's factorial here or e to exit : ");
+                    input = Console.ReadLine();
+                }
+                else
+                {
+                    Console.WriteLine("wrong input try again : ");
+                    input = Console.ReadLine();
+                }
+            }
         }
     }
 }
