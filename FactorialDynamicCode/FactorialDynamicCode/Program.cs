@@ -8,6 +8,16 @@ namespace FactorialDynamicCode
 {
     internal class Program
     {
+        static long Factorial(long number)
+        {
+            long[] vs = new long[number];
+            vs[0] = 1;
+            for (int i = 1; i < vs.Length; i++)
+            {
+                vs[i] = vs[i-1]*i;
+            }
+            return vs[number-1];
+        }
         static void Main(string[] args)
         {
         }
