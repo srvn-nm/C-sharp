@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\DictionaryPractice\DictionaryPractice\bin\Debug\DictionaryPractice.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\DictionaryPractice\DictionaryPractice\bin\Debug\DictionaryPractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\DictionaryPractice\DictionaryPractice\bin\Debug\DictionaryPractice.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\DictionaryPractice\DictionaryPractice\obj\Debug\DictionaryPractice.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\DictionaryPractice\DictionaryPractice\obj\Debug\DictionaryPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\DictionaryPractice\DictionaryPractice\obj\Debug\DictionaryPractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\DictionaryPractice\DictionaryPractice\obj\Debug\DictionaryPractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\DictionaryPractice\DictionaryPractice\obj\Debug\DictionaryPractice.pdb
