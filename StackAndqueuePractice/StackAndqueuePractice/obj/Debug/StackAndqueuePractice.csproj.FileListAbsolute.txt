@@ -1,0 +1,7 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\StackAndqueuePractice\StackAndqueuePractice\obj\Debug\StackAndqueuePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\StackAndqueuePractice\StackAndqueuePractice\obj\Debug\StackAndqueuePractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\StackAndqueuePractice\StackAndqueuePractice\bin\Debug\StackAndqueuePractice.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\StackAndqueuePractice\StackAndqueuePractice\bin\Debug\StackAndqueuePractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\StackAndqueuePractice\StackAndqueuePractice\bin\Debug\StackAndqueuePractice.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\StackAndqueuePractice\StackAndqueuePractice\obj\Debug\StackAndqueuePractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\StackAndqueuePractice\StackAndqueuePractice\obj\Debug\StackAndqueuePractice.pdb
