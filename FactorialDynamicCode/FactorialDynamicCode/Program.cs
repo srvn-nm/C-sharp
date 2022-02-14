@@ -10,13 +10,24 @@ namespace FactorialDynamicCode
     {
         static long Factorial(long number)
         {
-            long[] vs = new long[number];
-            vs[0] = 1;
-            for (int i = 1; i < number; i++)
+            if (number == 0)
             {
-                vs[i] = vs[i-1]*(i+1);
+                return 1;
             }
-            return vs[number-1];
+            else if (number > 0)
+            {
+                long[] vs = new long[number];
+                vs[0] = 1;
+                for (int i = 1; i < number; i++)
+                {
+                    vs[i] = vs[i - 1] * (i + 1);
+                }
+                return vs[number - 1];
+            }
+            else
+            {
+                return 0;
+            }
         }
         static void Main(string[] args)
         {
@@ -31,9 +42,18 @@ namespace FactorialDynamicCode
                 }
                 else if (input.All(char.IsDigit))
                 {
-                    Console.WriteLine(Factorial(long.Parse(input)) + "\n*****************");
-                    Console.WriteLine("Please type the number you want to see it's factorial here or e to exit : ");
-                    input = Console.ReadLine();
+                    long resault = Factorial(long.Parse(input));
+                    if (resault == 0)
+                    {
+                        Console.WriteLine("wrong input try again : ");
+                        input = Console.ReadLine();
+                    }
+                    else
+                    {
+                        Console.WriteLine(resault+"\n*****************");
+                        Console.WriteLine("Please type the number you want to see it's factorial here or e to exit : ");
+                        input = Console.ReadLine();
+                    }
                 }
                 else
                 {
