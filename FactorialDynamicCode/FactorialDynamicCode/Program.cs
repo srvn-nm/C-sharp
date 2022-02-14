@@ -12,18 +12,18 @@ namespace FactorialDynamicCode
         {
             long[] vs = new long[number];
             vs[0] = 1;
-            for (int i = 1; i < vs.Length; i++)
+            for (int i = 1; i < number; i++)
             {
-                vs[i] = vs[i-1]*i;
+                vs[i] = vs[i-1]*(i+1);
             }
             return vs[number-1];
         }
         static void Main(string[] args)
         {
+            Console.WriteLine("Please type the number you want to see it's factorial here or e to exit : ");
+            string input = Console.ReadLine();
             while (true)
             {
-                Console.WriteLine("Please type the number you want to see it's factorial here or e to exit : ");
-                string input = Console.ReadLine();
                 if (input == "e")
                 {
                     Console.WriteLine("Goodbye ^-^");
