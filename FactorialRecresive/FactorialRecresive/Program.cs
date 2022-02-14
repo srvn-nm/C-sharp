@@ -39,6 +39,10 @@ namespace FactorialRecresive
                         Console.WriteLine(resault+"\n***********************");
                     }
                 }
+                else if(input == "e")
+                {
+                    break;
+                }
                 else
                 {
                     Console.WriteLine("wrong input try again : ");
