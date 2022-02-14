@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Human.cs" />
     <Compile Include="Moving.cs" />
+    <Compile Include="Plane.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
