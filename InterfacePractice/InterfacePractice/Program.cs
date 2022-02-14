@@ -10,6 +10,10 @@ namespace InterfacePractice
     {
         static void Main(string[] args)
         {
+            Human human = new Human();
+            human.moving();
+            Plane plane = new Plane();
+            plane.moving();
         }
     }
 }
