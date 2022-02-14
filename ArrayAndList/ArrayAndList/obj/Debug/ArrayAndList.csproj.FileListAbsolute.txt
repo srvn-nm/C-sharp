@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ArrayAndList\ArrayAndList\bin\Debug\ArrayAndList.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ArrayAndList\ArrayAndList\bin\Debug\ArrayAndList.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ArrayAndList\ArrayAndList\bin\Debug\ArrayAndList.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.pdb
