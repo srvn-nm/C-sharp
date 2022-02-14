@@ -37,6 +37,8 @@ namespace FactorialRecresive
                     else
                     {
                         Console.WriteLine(resault+"\n***********************");
+                        Console.WriteLine("Please enter the number you want to see it's factorial here or e to exit : ");
+                        input = Console.ReadLine();
                     }
                 }
                 else if(input == "e")

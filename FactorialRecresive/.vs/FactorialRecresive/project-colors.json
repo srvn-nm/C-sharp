@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "780aa47f-36a9-46d1-bd0a-ec51f933b69e": {
+      "ProjectGuid": "780aa47f-36a9-46d1-bd0a-ec51f933b69e",
+      "DisplayName": "FactorialRecresive",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
