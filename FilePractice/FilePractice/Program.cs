@@ -13,8 +13,13 @@ namespace FilePractice
         {
             StreamReader sr = new StreamReader(@"../../../myFile.txt");
             //Console.WriteLine("Reading the whole file using this method : \n"+sr.ReadToEnd());
-            Console.WriteLine("**************************");
-            Console.WriteLine("Reading one line of the file using this method : \n" + sr.ReadLine());
+            //Console.WriteLine("**************************");
+            //Console.WriteLine("Reading one line of the file using this method : \n" + sr.ReadLine());
+            List<String> list = new List<String>();
+            while (sr.EndOfStream)
+            {
+                list.Add(sr.ReadLine());
+            }
 
         }
     }
