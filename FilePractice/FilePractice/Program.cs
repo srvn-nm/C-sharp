@@ -25,6 +25,10 @@ namespace FilePractice
                 Console.WriteLine("The "+(i+1)+" line of the file : "+list[i]);
                 Console.WriteLine("**************************************");
             }
+            StreamWriter sw = new StreamWriter(@"../../../myNewFile.txt");
+            sw.WriteLine("Hellooo!");
+            sw.WriteLine("Baby Girllll!");
+            
         }
     }
 }
