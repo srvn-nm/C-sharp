@@ -11,7 +11,7 @@ namespace FilePractice
     {
         static void Main(string[] args)
         {
-            StreamReader sr = new StreamReader(@"../../../myFile.txt");
+            StreamReader sr = new StreamReader(@"../../../TestFile.txt");
             //Console.WriteLine("Reading the whole file using this method : \n"+sr.ReadToEnd());
             //Console.WriteLine("**************************************");
             //Console.WriteLine("Reading one line of the file using this method : \n" + sr.ReadLine());
@@ -25,11 +25,14 @@ namespace FilePractice
                 Console.WriteLine("The "+(i+1)+" line of the file : "+list[i]);
                 Console.WriteLine("**************************************");
             }
-            StreamWriter sw = new StreamWriter(@"../../../myNewFile.txt");
-            sw.WriteLine("This file has been created by the streamwriter\nHellooo!");
-            sw.WriteLine("Baby Girllll!");
+            StreamWriter sw = new StreamWriter(@"../../../NewFile.txt");
+            //sw.WriteLine("This file has been created by the streamwriter\nHellooo!");
+            foreach(String s in list)
+            {
+                sw.WriteLine(s);
+            }
             sw.Close();
-            StreamReader sr2 = new StreamReader(@"../../../myNewFile.txt");
+            StreamReader sr2 = new StreamReader(@"../../../NewFile.txt");
             Console.WriteLine("Reading the whole file using this method : \n" + sr2.ReadToEnd());
             sr.Close();
             sr2.Close();
