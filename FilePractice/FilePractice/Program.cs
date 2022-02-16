@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,8 @@ namespace FilePractice
     {
         static void Main(string[] args)
         {
+            StreamReader sr = new StreamReader(@"../../../myFile.txt");
+            Console.WriteLine(sr.ReadToEnd());
         }
     }
 }

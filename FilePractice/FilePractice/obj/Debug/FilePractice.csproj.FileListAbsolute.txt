@@ -1,0 +1,8 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FilePractice\FilePractice\bin\Debug\FilePractice.exe.config
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FilePractice\FilePractice\bin\Debug\FilePractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FilePractice\FilePractice\bin\Debug\FilePractice.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FilePractice\FilePractice\obj\Debug\FilePractice.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FilePractice\FilePractice\obj\Debug\FilePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FilePractice\FilePractice\obj\Debug\FilePractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FilePractice\FilePractice\obj\Debug\FilePractice.exe
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\FilePractice\FilePractice\obj\Debug\FilePractice.pdb
