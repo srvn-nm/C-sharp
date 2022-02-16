@@ -26,7 +26,7 @@ namespace FilePractice
                 Console.WriteLine("**************************************");
             }
             StreamWriter sw = new StreamWriter(@"../../../NewFile.txt");
-            //sw.WriteLine("This file has been created by the streamwriter\nHellooo!");
+            //sw.WriteLine("This file has been created by the streamwriter");
             foreach(String s in list)
             {
                 sw.WriteLine(s);
