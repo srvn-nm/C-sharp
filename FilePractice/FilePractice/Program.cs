@@ -12,7 +12,7 @@ namespace FilePractice
         static void Main(string[] args)
         {
             StreamReader sr = new StreamReader(@"../../../myFile.txt");
-            Console.WriteLine(sr.ReadToEnd());
+            Console.WriteLine("Reading the whole file using this method : \n"+sr.ReadToEnd());
         }
     }
 }
