@@ -26,13 +26,13 @@ namespace FilePractice
                 Console.WriteLine("**************************************");
             }
             StreamWriter sw = new StreamWriter(@"../../../myNewFile.txt");
-            StreamReader sr2 = new StreamReader(@"../../../myNewFile.txt");
             sw.WriteLine("Hellooo!");
             sw.WriteLine("Baby Girllll!");
+            sw.Close();
+            StreamReader sr2 = new StreamReader(@"../../../myNewFile.txt");
             Console.WriteLine("Reading the whole file using this method : \n" + sr2.ReadToEnd());
             sr.Close();
             sr2.Close();
-            sw.Close();
         }
     }
 }
