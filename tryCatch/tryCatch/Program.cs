@@ -10,6 +10,18 @@ namespace tryCatch
     {
         static void Main(string[] args)
         {
+            while (true)
+            {
+                try
+                {
+                    int number = int.Parse(Console.ReadLine());
+                    Console.WriteLine(number*2);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                }
+            }
         }
     }
 }
