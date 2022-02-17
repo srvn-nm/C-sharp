@@ -14,6 +14,7 @@ namespace tryCatch
             {
                 try
                 {
+                    Console.WriteLine("Please enter your number here or e to exit : ");
                     string input = Console.ReadLine();
                     if (input == "e")
                     {
@@ -21,7 +22,7 @@ namespace tryCatch
                         break;
                     }
                     int number = int.Parse(input);
-                    Console.WriteLine(number*2);
+                    Console.WriteLine("Resault : " + number*2);
                 }
                 catch (Exception ex)
                 {
