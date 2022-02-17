@@ -14,7 +14,13 @@ namespace tryCatch
             {
                 try
                 {
-                    int number = int.Parse(Console.ReadLine());
+                    string input = Console.ReadLine();
+                    if (input == "e")
+                    {
+                        Console.WriteLine("Goodbye! ^-^");
+                        break;
+                    }
+                    int number = int.Parse(input);
                     Console.WriteLine(number*2);
                 }
                 catch (Exception ex)
@@ -22,6 +28,7 @@ namespace tryCatch
                     Console.WriteLine(ex.ToString());
                 }
             }
+            Console.WriteLine("Program is ended!\nSee you soon! ^-^");
         }
     }
 }
