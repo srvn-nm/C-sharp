@@ -20,14 +20,16 @@ namespace WindowsFormsApp1
 
         private void Add_Click(object sender, EventArgs e)
         {
-            int first = int.Parse(tbFirst.Text);
-            int second = int.Parse(tbSecond.Text);
-            Resault.Text = ClassLibraryPractice;
+            double first = double.Parse(tbFirst.Text);
+            double second = double.Parse(tbSecond.Text);
+            Resault.Text = Calculator.Add(second,first).ToString();
         }
 
         private void Multi_Click(object sender, EventArgs e)
         {
-
+            double first = double.Parse(tbFirst.Text);
+            double second = double.Parse(tbSecond.Text);
+            Resault.Text = Calculator.Multi(second, first).ToString();
         }
     }
 }
