@@ -8,11 +8,11 @@ namespace ClassLibraryPractice
 {
     public class Calculator
     {
-        public double Add(double a, double b)
+        public static double Add(double a, double b)
         {
             return a + b;
         }
-        public double Multi(double a,double b)
+        public static double Multi(double a,double b)
         {
             return a* b;
         }
