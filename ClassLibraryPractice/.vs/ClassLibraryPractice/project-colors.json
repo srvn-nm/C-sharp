@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30c9b750-0cdf-41ce-9137-ea2d6221d694": {
+      "ProjectGuid": "30c9b750-0cdf-41ce-9137-ea2d6221d694",
+      "DisplayName": "ClassLibraryPractice",
+      "ColorIndex": 0
+    },
+    "b4bec83d-fe9a-4d3f-aff4-a71e22f9c230": {
+      "ProjectGuid": "b4bec83d-fe9a-4d3f-aff4-a71e22f9c230",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
