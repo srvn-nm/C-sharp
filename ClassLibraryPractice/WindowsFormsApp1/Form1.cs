@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ClassLibraryPractice;
 
 namespace WindowsFormsApp1
 {
@@ -15,6 +16,18 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Add_Click(object sender, EventArgs e)
+        {
+            int first = int.Parse(tbFirst.Text);
+            int second = int.Parse(tbSecond.Text);
+            Resault.Text = ClassLibraryPractice;
+        }
+
+        private void Multi_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
