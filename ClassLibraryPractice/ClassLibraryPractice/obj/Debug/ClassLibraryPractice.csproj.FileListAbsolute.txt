@@ -1,0 +1,6 @@
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ClassLibraryPractice\ClassLibraryPractice\bin\Debug\ClassLibraryPractice.dll
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ClassLibraryPractice\ClassLibraryPractice\bin\Debug\ClassLibraryPractice.pdb
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ClassLibraryPractice\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.csproj.AssemblyReference.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ClassLibraryPractice\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ClassLibraryPractice\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.dll
+C:\Users\ASUS.PIESC\OneDrive\Desktop\Programing\C#\ClassLibraryPractice\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.pdb
